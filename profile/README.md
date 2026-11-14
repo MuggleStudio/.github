@@ -1,20 +1,20 @@
 # MuggleStudio
 
-**用心打磨移动应用与益智游戏。**
+**让想法成为好用、有趣的作品。**
 
-An independent studio crafting mobile apps and puzzle games with thoughtful design and reliable engineering.
+An independent studio bringing ideas to life through thoughtful design and reliable engineering.
 
 ## 关于我们
 
-MuggleStudio 是一个独立开发工作室，围绕移动应用与益智游戏开展产品设计和开发。我们关注具体的使用场景，从交互细节到工程实现，持续打磨产品体验。
+MuggleStudio 是一个独立创作与开发工作室。我们保持好奇，探索不同领域、平台与产品形态，将想法变成可以使用、体验和分享的作品。无论做什么，我们都关注具体的使用场景，从交互细节到工程实现，持续打磨。
 
-## 我们关注的方向
+## 从想法到作品
 
-| 方向 | 关注点 |
+| 环节 | 关注点 |
 | --- | --- |
-| 移动应用 | 面向 Android 与 iOS，围绕日常需求设计清晰、易用的功能 |
-| 益智游戏 | 打磨规则、操作反馈与游戏节奏，让玩家轻松上手 |
-| 产品与工程 | 将设计、实现、验证与迭代连接起来，兼顾体验和长期维护 |
+| 探索 | 从日常需求与新想法出发，尝试不同的技术和表达方式 |
+| 设计 | 明确使用场景，让功能、交互与视觉形成完整体验 |
+| 实现 | 将设计、开发、验证与迭代连接起来，兼顾体验和长期维护 |
 
 ## 我们的工作方式
 
